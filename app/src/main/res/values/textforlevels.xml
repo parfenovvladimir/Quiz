@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1text0">Aston Martin</string>
+    <string name="level1text1">Аватар</string>
+    <string name="level1text2">Людвиг Ван Бетховен</string>
+    <string name="level1text3">Burger King</string>
+    <string name="level1text4">Чарльз Дарвин</string>
+    <string name="level1text5">Леонардо да Винчи</string>
+    <string name="level1text6">Диснейленд</string>
+    <string name="level1text7">Джеки Чан</string>
+    <string name="level1text8">Карате</string>
+    <string name="level1text9">Lacoste</string>
+    <string name="level1text10">MasterCard</string>
+    <string name="level1text11">Новая Зеландия</string>
+    <string name="level1text12">RedBull</string>
+    <string name="level1text13">Рокки</string>
+    <string name="level1text14">Tesla</string>
+    <string name="level1text15">Тетрис</string>
+    <string name="level1text16">Xbox one</string>
+    <string name="level1text17">Йога</string>
+    <string name="level1text18">Юпитер</string>
+    <string name="level1text19">Плавание</string>
+</resources>

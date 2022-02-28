@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //Чтобы картинка появлялась плавно
+    <alpha
+        android:duration="200"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0">
+        //Продолжительность эффекта прозрачности 200 мс
+        //Изначальное значение прозрачности - 0, конечное - 1
+    </alpha>
+</set>
